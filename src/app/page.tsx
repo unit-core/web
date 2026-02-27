@@ -272,7 +272,7 @@ export default async function Home() {
             Software developer, founder, and amateur esports.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I'm Denis—a software developer and entrepreneur living in Spain. 
+            Hi, I'm Denis — a software developer and entrepreneur living in Spain. 
             I build digital tools designed to make daily life a little easier. 
             I document every step of the journey, sharing the decisions I make and the technology I use. 
             Want to see how it’s done? Start exploring through the Articles tab.

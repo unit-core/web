@@ -69,36 +69,69 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Spencer Sharp. I live in New York City, where I design the
-            future.
+            I’m Denis Popov. I live in Spain, where I design my own services.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              I’ve loved making things for as long as I can remember, and wrote
-              my first program when I was 6 years old, just two weeks after my
-              mom brought home the brand new Macintosh LC 550 that I taught
-              myself to type on.
+              I was eight when my classmates started getting the first push-button phones.
+              I still remember the moment I picked up a friend's Siemens and saw that the volume bar could be adjusted by half a notch.
+              This tiny interface detail literally blew my mind with its logic and aesthetics.
             </p>
             <p>
-              The only thing I loved more than computers as a kid was space.
-              When I was 8, I climbed the 40-foot oak tree at the back of our
-              yard while wearing my older sister’s motorcycle helmet, counted
-              down from three, and jumped — hoping the tree was tall enough that
-              with just a bit of momentum I’d be able to get to orbit.
+              I read paper mobile phone store catalogs until they were tattered.
+              By the age of ten, I knew the specifications of every model on the market better than my multiplication tables.
+              It wasn't just a love of gadgets—it was a premonition of what I really wanted to do.
             </p>
             <p>
-              I spent the next few summers indoors working on a rocket design,
-              while I recovered from the multiple surgeries it took to fix my
-              badly broken legs. It took nine iterations, but when I was 15 I
-              sent my dad’s Blackberry into orbit and was able to transmit a
-              photo back down to our family computer from space.
+              But life took a sharp turn, and at 22, I found myself not behind a computer screen, but on a construction site.
+              For five years, I worked as a polyethylene pipe welder.
+              It was hard, grueling physical labor that left no room for creativity.
+              At some point, I realized: either I take a risk now, or this "now" would never come.
+              I quit my job "for nothing," pulled out my sister's old MacBook, and made a promise to myself and my parents: I had a year to learn how to create apps, or I'd go back to welding forever.
             </p>
             <p>
-              Today, I’m the founder of Planetaria, where we’re working on
-              civilian space suits and manned shuttle kits you can assemble at
-              home so that the next generation of kids really <em>can</em> make
-              it to orbit — from the comfort of their own backyards.
+              Learning alone was incredibly difficult.
+              Without a network or mentors, every step in Xcode felt like climbing Everest.
+              But I learned the most important rule: just keep going.
+              Eight months later, I received my first offer for $200.
+              That money meant more to me than any millions—it was proof that I was finally in the right place.
             </p>
+            <p>
+              Today, having worked my way up to Senior iOS Developer, I'm building <strong>Unitcore</strong>.
+              I create my own services and share my process publicly because I believe in transparency and clean code.
+              I'm still that guy who admires a perfect interface, but now I don't just study catalogs—I create products that people use.
+              And frankly, I still don't have enough.
+            </p>
+            {/* <p>
+            Мне было восемь, когда у моих одноклассников начали появляться первые кнопочные телефоны. 
+            Я до сих пор помню тот момент, когда взял в руки Siemens друга и увидел, что полоску громкости можно сдвинуть на «половинку» деления. 
+            Эта крошечная деталь интерфейса буквально свела меня с ума своей логичностью и эстетикой.
+            </p>
+            <p>
+            Я до дыр зачитывал бумажные каталоги сотовых магазинов. 
+            К десяти годам я знал спецификации каждой модели на рынке лучше, чем таблицу умножения. 
+            Это была не просто любовь к гаджетам — это было предчувствие того, чем я действительно хочу заниматься.
+            </p>
+            <p>
+            Но жизнь сделала крутой поворот, и в 22 года я обнаружил себя не за экраном монитора, а на стройплощадке. 
+            Пять лет я работал сварщиком полиэтиленовых труб. 
+            Это был тяжелый, изматывающий физический труд, который не оставлял места для творчества. 
+            В какой-то момент я понял: либо я рискну сейчас, либо это «сейчас» не наступит никогда. 
+            Я уволился «в никуда», достал старый сестринский MacBook и дал себе и родителям обещание: у меня есть год, чтобы научиться создавать приложения, или я навсегда вернусь к сварке.
+            </p>
+            <p>
+            Учиться в одиночку было чертовски сложно. 
+            Без окружения и наставников, каждый шаг в Xcode казался восхождением на Эверест. 
+            Но я усвоил главное правило: просто не останавливаться. 
+            Спустя восемь месяцев я получил свой первый оффер на 200 долларов. 
+            Эти деньги значили для меня больше, чем любые миллионы — они были доказательством того, что я наконец-то на своем месте.
+            </p>
+            <p>
+            Сегодня, пройдя путь до Senior iOS Developer, я строю <strong>Unitcore</strong>. 
+            Я создаю собственные сервисы и делюсь процессом публично, потому что верю в прозрачность и чистоту кода. 
+            Я всё еще тот парень, которого восхищает идеальный интерфейс, но теперь я не просто изучаю каталоги — я сам создаю продукты, которыми пользуются люди. 
+            И, честно говоря, мне всё еще мало.
+            </p> */}
           </div>
         </div>
         <div className="lg:pl-20">
